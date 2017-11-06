@@ -1,5 +1,6 @@
 ### Setup
 ```
-sudo pip3 insstall -r requirements.txt
+# Setup virtualenv if you want
+sudo pip3 install -r requirements.txt
 jupyter notebook
 ```
